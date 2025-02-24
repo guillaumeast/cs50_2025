@@ -8,3 +8,4 @@ In this project, you'll analyze three pre-compiled sorting programs—`sort1`, `
 
 ## ⏱️ Original Submission
 - **Date:** Sunday, February 23, 2025, at 2:15 AM CET
+- **check50 (correctness) score:** 3/3
