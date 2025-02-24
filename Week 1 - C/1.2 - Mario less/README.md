@@ -8,3 +8,5 @@ This project involves creating a C program that prompts the user for a height be
 
 ## ⏱️ Original Submission
 - **Date:** Friday, February 21, 2025, at 7:02 PM CET
+- **check50 (correctness) score:** 10/10
+- **style50 (style) score:** 1.00/1.00
