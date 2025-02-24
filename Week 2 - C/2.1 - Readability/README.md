@@ -8,3 +8,5 @@ This project involves creating a C program that calculates the approximate grade
 
 ## ⏱️ Original Submission
 - **Date:** Saturday, February 22, 2025, at 5:54 AM CET
+- **check50 (correctness) score:** 12/12
+- **style50 (style) score:** 1.00/1.00
