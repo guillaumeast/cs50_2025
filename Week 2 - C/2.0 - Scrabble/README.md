@@ -8,3 +8,5 @@ This project involves creating a C program that simulates a simple Scrabble-like
 
 ## ⏱️ Original Submission
 - **Date:** Saturday, February 22, 2025, at 4:41 AM CET
+- **check50 (correctness) score:** 11/11
+- **style50 (style) score:** 1.00/1.00
