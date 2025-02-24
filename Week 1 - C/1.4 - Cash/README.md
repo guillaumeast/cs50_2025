@@ -8,3 +8,5 @@ This project involves creating a C program that calculates the minimum number of
 
 ## ⏱️ Original Submission
 - **Date:** Friday, February 21, 2025, at 9:00 PM CET
+- **check50 (correctness) score:** 10/10
+- **style50 (style) score:** 1.00/1.00
