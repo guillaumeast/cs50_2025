@@ -8,3 +8,5 @@ This project involves creating a C program that validates credit card numbers us
 
 ## ⏱️ Original Submission
 - **Date:** Friday, February 21, 2025, at 10:40 PM CET
+- **check50 (correctness) score:** 17/17
+- **style50 (style) score:** 1.00/1.00
