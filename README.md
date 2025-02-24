@@ -25,7 +25,7 @@ The repository is organized **by weeks**, following the structure of the course:
 
 ---
 
-## 📂 Inside Each Problem Set
+## 📂 Inside Each Problem Folder
 
 Every problem folder includes its own readme file containing essential links and resources:
 - **Lecture:** Full-length lectures on YouTube (~ 2 hours).
