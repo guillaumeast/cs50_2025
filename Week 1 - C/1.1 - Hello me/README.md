@@ -8,3 +8,5 @@ This project involves creating a C program that prompts the user for their name 
 
 ## ⏱️ Original Submission
 - **Date:** Friday, February 21, 2025, at 6:22 PM CET
+- **check50 (correctness) score:** 5/5
+- **style50 (style) score:** 1.00/1.00
