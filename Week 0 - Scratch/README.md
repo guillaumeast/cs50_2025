@@ -16,7 +16,7 @@
 ## 🛠️ How was this made?
 - **Original Idea:** Concept developed with insights from [ChatGPT 4](https://openai.com/chatgpt)
 - **Sprites:** Created using assets from [DALL-E](https://openai.com/dall-e) and [Scratch's Sprite Library](https://scratch.mit.edu/)
-- **Sounds:** Sourced from [Pixabay](https://pixabay.com) and [Scratch's Sound Library](https://scratch.mit.edu/sounds)
+- **Sounds:** Sourced from [Pixabay](https://pixabay.com) and [Scratch's Sound Library](https://scratch.mit.edu/)
 
 ## ⏱️ Original Submission
 - **Date:** Wednesday, February 19, 2025, at 1:42 AM CET
