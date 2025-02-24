@@ -8,3 +8,5 @@ This project involves creating a C program that simulates a plurality voting sys
 
 ## ⏱️ Original Submission
 - **Date:** Sunday, February 23, 2025, at 2:38 AM CET
+- **check50 (correctness) score:** 14/14
+- **style50 (style) score:** 1.00/1.00
