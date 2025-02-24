@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It's the fastest algorithm for sorted50000.txt => lowest Ω() (sort2 excluded because I already know it's merge sort)
+
+sort2 uses: Merge sort
+
+How do you know?: It's the fastest algorithm for random50000.txt => lowest O()
+
+sort3 uses: Selection sort
+
+How do you know?: It's the slowest algorithm for both random50000.txt and sorted50000.txt => highest both O() and Ω()
