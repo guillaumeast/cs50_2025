@@ -8,3 +8,5 @@ This project involves creating a C program that encrypts messages using Caesar's
 
 ## ⏱️ Original Submission
 - **Date:** Saturday, February 22, 2025, at 5:17 PM CET
+- **check50 (correctness) score:** 11/11
+- **style50 (style) score:** 1.00/1.00
