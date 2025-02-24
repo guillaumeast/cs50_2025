@@ -8,3 +8,5 @@ This project involves creating a C program that encrypts messages using a substi
 
 ## ⏱️ Original Submission
 - **Date:** Saturday, February 22, 2025, at 9:58 PM CET
+- **check50 (correctness) score:** 19/19
+- **style50 (style) score:** 1.00/1.00
