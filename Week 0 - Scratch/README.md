@@ -21,3 +21,4 @@
 ## ⏱️ Original Submission
 - **Date:** Wednesday, February 19, 2025, at 1:42 AM CET
 - **Platform:** [Submit.cs50](https://submit.cs50.io/upload/cs50/problems/2025/x/scratch)
+- **check50 (correctness) score:** 8/8
