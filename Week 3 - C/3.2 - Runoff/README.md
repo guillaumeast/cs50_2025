@@ -8,3 +8,5 @@ This project involves creating a C program that simulates an instant runoff elec
 
 ## ⏱️ Original Submission
 - **Date:** Sunday, February 23, 2025, at 4:03 AM CET
+- **check50 (correctness) score:** 25/25
+- **style50 (style) score:** 1.00/1.00
