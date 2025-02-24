@@ -8,3 +8,5 @@ This project involves creating a C program that implements a ranked-choice votin
 
 ## ⏱️ Original Submission
 - **Date:** Monday, February 24, 2025, at 4:10 AM CET
+- **check50 (correctness) score:** 18/18
+- **style50 (style) score:** 1.00/1.00
