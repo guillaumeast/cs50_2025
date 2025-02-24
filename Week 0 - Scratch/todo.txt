@@ -1,0 +1,25 @@
+------------------------------------------
+POLISH ANIM
+-------------------------------------------
+
+-> Game Over = add animations + flying bugs + sounds
+-> Start -> Main : Transition (Faire apparaître les clouds en holo quand dev_walk ouvre la porte)
+
+-------------------------------------------
+POLISH SPRITES
+-------------------------------------------
+
+-> Sprite (developer + bugs + flying bugs) = refaire avec 3 poses et more pixelised
+(+ 1 version par life pour le dev : habits niquels puis déchirés puis en slip ?)
+
+------------------------------------------
+ENGINE BUG ?!?
+-------------------------------------------
+
+-> Merge : Fix animation teleport qui s'arrête sans raison au bout d'un moment si on clique pas sur le bouton
+
+-------------------------------------------
+OPTIONNAL FEATURE
+-------------------------------------------
+
+-> New object to grab = "doc" = RTFM to prevent bugs (drag manual to player = no bugs during 3 secs)
