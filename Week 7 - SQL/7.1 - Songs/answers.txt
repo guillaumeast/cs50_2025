@@ -1,0 +1,14 @@
+1. Audio aura characterization:
+sqlite> SELECT AVG(energy), AVG(valence), AVG(danceability) FROM songs;
++-------------+--------------+-------------------+
+| AVG(energy) | AVG(valence) | AVG(danceability) |
++-------------+--------------+-------------------+
+| 0.65906     | 0.484443     | 0.71646           |
++-------------+--------------+-------------------+
+Based on an average energy, valence and danceability, this listener’s audio aura seems upbeat and lively, with a strong preference for rhythmic and danceable tracks. The moderately low valence suggests that while the music is energetic, it’s not always cheerful: perhaps reflecting a taste for songs that are intense or emotionally complex.
+
+2. Why this might not be representative:
+This aura might not accurately represent the listener because it treats all 100 songs equally, regardless of how often each was played or the context in which it was listened to. Some songs might have been played just once or added automatically by playlists, and numerical features like energy or valence don’t fully capture emotional depth, lyrics, or personal meaning.
+
+3. Better methods:
+A better approach could weigh songs by play count or listening duration to emphasize favorites. It could also include more features like tempo, lyrical sentiment, or genre. Spotify could analyze clusters of songs to identify multiple moods instead of a single averaged “aura,” offering a more nuanced picture of the listener’s musical personality.
