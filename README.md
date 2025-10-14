@@ -54,4 +54,4 @@ For a comprehensive view of the CS50 curriculum, check out the [CS50 2025 Course
 
 ---
 
-Explore, learn, and enjoy the journey through CS50. Happy coding! 😎
+> _“Explore, learn, and enjoy the journey through CS50. Happy coding!"_ 😎
