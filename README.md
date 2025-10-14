@@ -4,6 +4,19 @@ Welcome to my CS50 2025 problem sets repository!
 
 This repo is my personal collection of all the challenges and projects from Harvard's CS50 course for the year 2025.
 
+[![Course: CS50](https://img.shields.io/badge/Course-CS50-blue)](https://cs50.harvard.edu/x/2025/)
+[![School: Harvard](https://img.shields.io/badge/School-Harvard-9E1B32)](https://www.harvard.edu/)
+[![Status: Ongoing](https://img.shields.io/badge/Status-Ongoing-f36d00)](https://cs50.harvard.edu/x/2025/)
+
+[![Scratch](https://img.shields.io/badge/Scratch-FF9800)](https://scratch.mit.edu/)
+[![C](https://img.shields.io/badge/C-555555)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/Python-3572A5)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791)](https://en.wikipedia.org/wiki/SQL)
+[![HTML](https://img.shields.io/badge/HTML-e34c26)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-563d7c)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Flask](https://img.shields.io/badge/Flask-000000)](https://flask.palletsprojects.com/)
+
 ---
 
 ## 💡 About This Repository
